@@ -1,0 +1,17 @@
+main: com.achievementshuffle.AchievementShuffle
+name: achievementshuffle
+version: 1.0
+api-version: 1.16
+commands:
+ ashuffle:
+   usage: /ashuffle
+   description: starts the game
+ skip:
+   usage: /skip
+   description: votes to skip
+ timer:
+   usage: /timer [seconds]
+   description: sets time to get advancement
+ stop:
+   usage: /stop 
+   description: stops the game

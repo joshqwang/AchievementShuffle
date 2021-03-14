@@ -1,0 +1,3 @@
+module AchievementShuffle {
+	requires spigot;
+}
